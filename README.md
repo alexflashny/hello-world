@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+- Just another repository
 Hi Humans!
 
 Alex here, I like Node.js and coffescript (that's what I'm made off).
